@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+ h1 {
+color: #497174;
+ }
+
+h2 {
+  font-size: 20px;
+  font-weight: lighter;
+  color: #EB6440;
+}
+
+h3 {
+text-decoration: none;
+}
+
+.content {
+  margin-left: 22px;
+  margin-right: 22px;
+}
+
+.small_card {
+  border-left: 5px solid #D6E4E5;
+  text-indent: 4px;
+  background-color: #EFF5F5;
+}
+
+.author {
+  font-style: italic;
+}
